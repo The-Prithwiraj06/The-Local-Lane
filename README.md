@@ -1,4 +1,4 @@
-# Handcrafts Marketplace Web Application
+# The Local Lane
 
 Welcome to the Handcrafts Marketplace web application repository! This project is designed to provide a platform where users can easily discover and purchase local handcrafts and handmade products. The application allows users to sign up as either a regular User or as a Vendor, enabling Vendors to upload their product listings, including images, prices, names, and descriptions. This README file will guide you through the setup and usage of the application.
 
